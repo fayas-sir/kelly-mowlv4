@@ -43,7 +43,7 @@ Project created by <a href="https://github.com/ameer-kallumthodi">fayas-sir</a> 
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/FsDjV2uRKce4wgMpAtYwyf" target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png" alt="kyrie.baran" height="200" width="300" /></a>
+  <a href="https://chat.whatsapp.com/FsDjV2uRKce4wgMpAtYwyf" target="blank"><img align="center" src="20220330_080524.jpg" alt="kyrie.baran" height="200" width="300" /></a>
 </p>
 
 ## 
