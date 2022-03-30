@@ -82,8 +82,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/ameer-kallumthodi/pikachu
-$ cd pikachu
+$ git clone https://github.com/fayas-sir/kelly-mowlv4
+$ cd kelly-mowl
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -92,8 +92,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/ameer-kallumthodi/pikachu
-$ cd pikachu
+$ git clone https://github.com/fayas-sir/kelly-mowlv4
+$ cd kelly-mowl
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -120,7 +120,7 @@ Base, Bug Fixes, Modules | Bug Fixes, Modules | Bug fixes, ideas
   </div>
 
 ## Contributors
-`Ameer Suhail`
+`Fayas Subair`
 `Afnanplk`
 `Cyberchekuthan`
 `Farhan-Dqz`
