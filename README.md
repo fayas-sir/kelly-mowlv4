@@ -40,10 +40,10 @@ Project created by <a href="https://github.com/ameer-kallumthodi">fayas-sir</a> 
 ##
   <h3 align="center">📢 Support Group 1:</h3>
 <p align="center">
-Click WA logo to Join Support Group 👇
+These Is Our Github Account Link CLICK 👇
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/FsDjV2uRKce4wgMpAtYwyf" target="blank"><img align="center" src="20220330_080524.jpg" alt="kyrie.baran" height="200" width="300" /></a>
+  <a href="https://github.com/fayas-sir/kelly-mowlv4/edit/master/README.md" target="blank"><img align="center" src="20220330_080524.jpg" alt="kyrie.baran" height="200" width="300" /></a>
 </p>
 
 ## 
